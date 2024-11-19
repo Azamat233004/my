@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+body{
+  background-color: #212121;
+}
+ p{
+  color: #F7FBFC;
+ }
+ h1{
+  color: #F7FBFC;
+ }
+ h3{
+  color: #F7FBFC;
+ }
+
+  
+
+.menu h1{
+text-align: center;
+color: #14FFEC;
+}
+.menu h3{
+  text-align: center;
+}
+.menu2 h3{
+  text-align: center;
+  color: #14FFEC;
+}
+.more {
+  padding: 20px 50px;
+  border-radius: 55px;
+  color: #F7FBFC;
+  text-decoration: none;  
+  border: 1px solid #0D7377;
+  display: inline-block;
+ 
+}
+.menu3{
+  text-align: center;
+}
+nav.menu{
+  display: flex;
+  align-items: center;
+}
+nav.menu  a{
+  text-decoration: none;
+  color: #333;
+}
+a.menu_logo{
+  display: flex;
+  align-items: center;
+  margin-right: auto;
+  text-indent: 20px;
+}
+.menu_link,
+.menu_link_active{
+  padding: 10px;
+  margin: 10px;
+  color: #EC8305;
+  text-decoration: overline;
+}
+.menu_link-active{
+  font-weight: bold;
+  color: #14FFEC;
+}
+.button{
+  padding: 20px 50px;
+  border-radius: 55px;
+  color: #F7FBFC;
+  text-decoration: none;  
+  border: 1px solid #0D7377;
+  display: inline-block; 
+}
+.menu4{
+  text-align: center;
+}
+.btn{
+  padding: 20px 50px;
+  border-radius: 55px;
+  color: #F7FBFC;
+  text-decoration: none;  
+  border: 1px solid #0D7377;
+  display: inline-block;  
+}
+.menu5{
+  text-align: center;
+}
+.btn2{
+  padding: 20px 50px;
+  border-radius: 55px;
+  color: #F7FBFC;
+  text-decoration: none;  
+  border: 1px solid #0D7377;
+  display: inline-block;  
+}
+.menu6{
+  text-align: center;
+}
+.btn3{
+  padding: 20px 50px;
+  border-radius: 55px;
+  color: #F7FBFC;
+  text-decoration: none;  
+  border: 1px solid #458ff8;
+  display: inline-block;  
+}
+.menu7{
+  text-align: center;
+}
+.btn6{
+  padding: 20px 50px;
+  border-radius: 55px;
+  color: #F7FBFC;
+  text-decoration: none;  
+  border: 1px solid #0D7377;
+  display: inline-block; 
+}
+.hh1{
+  color: #14FFEC;
+}
+.home{
+  color: #EC8305;
+position: absolute;
+top: 50px;
+left: 100px;
+}
+.home_text{
+  width: 500px ;
+  color: #493628;
+  background-color:#ECDFCC ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+
+
+
+
+
+  
+
+
+
+
+
+
